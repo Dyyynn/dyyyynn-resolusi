@@ -1,0 +1,4 @@
+dyyyynn-resolusi
+- Membuat form login web halal
+- Membuat tampilan front web
+- Membuat form konfirmasi pembayaran  
